@@ -1,0 +1,20 @@
+2022-01-30 22:56:58 INFO  TestLog:31 - Log Başlatıldı
+2022-01-30 22:57:01 INFO  TestLog:29 - Close Cookie
+2022-01-30 22:57:01 INFO  TestLog:35 - The value to be searched has been sent
+
+2022-01-30 22:57:01 INFO  TestLog:41 - On the search button
+2022-01-30 22:57:01 INFO  TestLog:47 - Click the search button
+2022-01-30 22:57:05 INFO  TestLog:53 - Scroll down page
+2022-01-30 22:57:06 INFO  TestLog:59 - Click the See More Product button
+2022-01-30 22:57:07 INFO  TestLog:63 - Page 2 Success
+2022-01-30 22:57:07 INFO  TestLog:72 - Click the product
+2022-01-30 22:57:08 INFO  TestLog:82 - Product Add to Card.
+2022-01-30 22:57:14 INFO  TestLog:114 - Click the go to card button
+2022-01-30 22:57:15 INFO  TestLog:124 - Compare price
+2022-01-30 22:57:15 INFO  TestLog:128 - Compare price EQUAL
+2022-01-30 22:57:15 INFO  TestLog:139 - Increase product price
+2022-01-30 22:57:20 INFO  TestLog:150 - Total product price
+2022-01-30 22:57:20 INFO  TestLog:157 - Product 2 Adet
+2022-01-30 22:57:20 INFO  TestLog:166 - Delete products
+2022-01-30 22:57:25 INFO  TestLog:175 - Is Empty Basket
+2022-01-30 22:57:25 INFO  TestLog:177 - Is Empty Basket TRUE
